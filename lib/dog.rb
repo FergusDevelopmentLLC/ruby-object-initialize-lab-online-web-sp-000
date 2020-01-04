@@ -22,4 +22,5 @@ class Dog
 end
 
 doggy = Dog.new("snoopy", "beagle")
-puts doggy
+puts doggy.name
+puts doggy.breed
