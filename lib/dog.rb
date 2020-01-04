@@ -19,3 +19,6 @@ class Dog
     @breed
   end
 end
+
+doggy = Dog.new("snoopy", "beagle")
+puts doggy
